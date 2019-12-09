@@ -7,4 +7,5 @@ Final Project for USC DES323 Design Theory, Fall 2019, Professor Ceci Moss
 ---
 # To Run The Program
 1) install python3
-2) run 'python3 SelfImprovingIntrovert_Manifesto.py' in terminal/console/bash
+2) download 'SelfImprovingIntrovert_Manifesto.py' from this repository
+3) run 'python3 SelfImprovingIntrovert_Manifesto.py' in terminal/console/bash
